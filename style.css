@@ -1,0 +1,49 @@
+h1 {
+	font-size: 20px;
+	text-align: center;
+	background-color: lightblue;
+	border-style: ridge;
+	padding-bottom: 20px;
+}
+
+
+h2 {
+	font-family: "Dosis", sans-serif;
+	background-color: darkseagreen;
+	border-style: dashed;
+	border-color: black;
+	font-size: 250%;
+	width: 1260px;
+	height: 80px;
+	padding: 4px;
+	margin: 10px;
+}
+
+h3 {
+	font-family: "Dosis", sans-serif;
+	background-color: darkseagreen;
+	border-style: dashed;
+	border-color: black;
+	font-size: 250%;
+	width: 1260px;
+	height: 80px;
+	padding: 4px;
+	margin: 10px;
+}
+
+h4 {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+h5 {
+	font-family: "Dosis", sans-serif;
+	background-color: darkseagreen;
+	border-style: dashed;
+	border-color: black;
+	font-size: 250%;
+	width: 1200px;
+	height: 80px;
+	padding: 4px;
+	margin: 10px;
+}
